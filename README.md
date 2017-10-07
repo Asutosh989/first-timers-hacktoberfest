@@ -51,3 +51,11 @@ Name: Igor Souza
 Bio: Infra Dev  
 Place: Brazil  
 Email: igordcsouza@me.com  
+
+Name: Chad Warford   
+Bio: Fullstack Developer / Open Source Enthusiast    
+Place: Toronto, Canada    
+Website: https://theonlinelifesaver.com   
+Email: info@theonlinelifesaver.com  
+Twitter: WarfordDesigns  
+Facebook: TheOnlineLifesaver   
